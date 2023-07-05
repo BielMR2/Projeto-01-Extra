@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    margin: auto;
+    max-width: 1024px;
+}
+
+#main {
+    font-family: 'Open Sans', sans-serif;
+
+    text-align: center;
+
+    padding: 0 0 64px 0;
+}
+
+#main span {
+    color: #EE24FF;
+    font-weight: 700;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    color: #3F3D56;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p {
+    color: #828282;
+    text-align: center;
+    font-size: 15px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+#main span1 {
+    font-weight: bold;
+    color: black;
+}
+
+#main img {
+    padding: 64px 0 32px;
+}
+
+#line {
+    border-top: 1px solid #ECEFF2;
+    width: 391px;
+    height: 0px;
+    margin: auto;
+
+    padding-bottom: 16px;
+}
+
+#footer {
+    text-align: center;
+}
+
+#footer a {
+    text-decoration: none;
+
+    color: #3F3D56;
+    text-align: center;
+    font-size: 15px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 147.682%;
+}
+
+#footer a + a {
+    margin-left: 45px;
+}
+
+#footer img {
+    position: fixed;
+    bottom: 0%;
+    display: flex;
+
+}
